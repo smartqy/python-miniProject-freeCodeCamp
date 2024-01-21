@@ -25,7 +25,7 @@ import random
 # print(make_new_board())
 
 import re
-
+import random
 # Given String
 s = "I am a human being."
 
